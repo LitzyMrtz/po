@@ -1,0 +1,54 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+  color: #f81b2a;
+  font-family: 'Times New Roman';
+  border-style: double;
+  border-color: #e25050;
+  border-width: 5px;
+  font-size: 35px;
+}
+
+.down {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+
+p {
+  font-size: 20px;
+}
+
+h4 {
+  font-size: 20px;
+  color: #095309;
+  font-family: 'Times New Roman';
+  text-decoration: underline;
+
+
+}
+
+.img {
+  text-align: center;
+}
+
+body {
+  background-color: #ffffff;
+  font-family: 'arial';
+
+}
+
+h6 {
+  text-align: center;
+}
+
+ol {
+  font-style: "Sofia";
+  font-size: 17px;
+}
